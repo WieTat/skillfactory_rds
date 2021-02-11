@@ -47,4 +47,5 @@
 * region_rating - рейтинг региона
 * app_date - дата подачи заявки
 * default - наличие дефолта
+  
 https://www.kaggle.com/tanjawie/creditscoring-u4
